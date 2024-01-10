@@ -57,18 +57,6 @@
 
 - **Food Ordering Application (Feb 2023):** A full-stack app that offers a seamless ordering experience with secure payment integration and a modern design.
 
-## 💼 Work Experience
-
-#### Romantiko Barbershop - Full Stack Developer
-_Sep 2022 - Apr 2023_
-- Modernized business operations with a custom web application.
-- Built a collaborative interface to streamline team communication.
-- Implemented JWT for enhanced security measures.
-
-#### ALCANNA / Wine and Beyond - Sales Associate
-_Sep 2022 - Aug 2023_
-- Delivered exceptional customer service and managed financial transactions accurately.
-
 ## 📚 Education
 
 - **BSc in Computer Science** - University of Lethbridge (Expected Grad 2025)
